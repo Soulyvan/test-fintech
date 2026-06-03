@@ -151,3 +151,9 @@ http://127.0.0.1:8000/api/docs/
 ```text
 http://127.0.0.1:8000/api/schema/
 ```
+
+--- 
+
+## Test avec insomnia (équivalent de Postman)
+
+**Il y a une variable d'environnement dont la valeur est la suivante: `http://127.0.0.1:8000/api/`**
