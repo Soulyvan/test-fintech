@@ -68,7 +68,7 @@ Accès : http://127.0.0.1:8000
 
 ### MODE 2 : POSTGRESQL (Docker)
 
-Utilisé pour simuler un environnement production.
+Utilisé pour simuler un environnement production. Créer le fichier docker-compose.yml, à la racine du projet. 
 
 ###### docker-compose.yml
 ```bash
