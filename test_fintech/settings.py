@@ -111,6 +111,17 @@ DATABASES = {
     }
 }
 
+# DATABASES = {
+#     'default': {
+#         'ENGINE': 'django.db.backends.postgresql',
+#         'NAME': 'fintech',
+#         'USER': 'fintech_user',
+#         'PASSWORD': 'fintech_pass',
+#         'HOST': 'localhost',
+#         'PORT': '5432',
+#     }
+# }
+
 # Pour les Users Personnalisés
 AUTH_USER_MODEL = "accounts.CustomUser"
 

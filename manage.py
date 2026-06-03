@@ -3,6 +3,9 @@
 import os
 import sys
 
+os.environ["PYTHONUTF8"] = "1"
+os.environ["PYTHONIOENCODING"] = "utf-8"
+
 
 def main():
     """Run administrative tasks."""
